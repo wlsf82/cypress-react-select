@@ -1,0 +1,19 @@
+{
+  "name": "cypress-react-select",
+  "version": "1.0.0",
+  "description": "Sample project for a live coding session testing componentes from the react select library.",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress.io",
+    "react-select",
+    "cy.handsOn TAT"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.4.0"
+  }
+}
